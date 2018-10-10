@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name"> حال‌نگار </string>
+    <string name="feeltext"> احساس می‌کنم </string>
+    <string name="next_text"> مرحله بعدی </string>
+    <string name="done_text"> اتمام فرایند </string>
+    <string name="undo_text"> مرحله قبلی </string>
+    <string name="mood_rec_notif">حال فعلی شما ثبت گردید</string>
+    <string name="mood_rec_report"> </string>
+    <string name="shift_to"> می‌خواهم حالم به این حالات تغییر کند </string>
+    <string name="stay_here"> می‌خواهم در همین حال بمانم </string>
+    <string name="more_pic">تصاویر بیشتر ...</string>
+    <string name="more_qoute">جملات بیشتر ...</string>
+    <string name="more_strategy"> راه‌کارهای دیگر ... </string>
+    <string name="report"> گزارش یک ماه گذشته </string>
+    <string name="about"> درباره نرم‌افزار </string>
+    <string name="skip"> بستن </string>
+    <string name="green"> سبز </string>
+    <string name="yellow"> زرد </string>
+    <string name="red"> قرمز </string>
+    <string name="blue"> آبی </string>
+    <string name="ehsan"> احسان میقانی </string>
+    <string name="sorush"> سروش نصری </string>
+    <string name="ehsan_mail"> ehsan.maiqani@gmail.com </string>
+    <string name="sorush_mail"> sqinasri@gmail.com </string>
+    <string name="halnegar_dis"> حال‌نگار (نسخه آزمایشی) </string>
+    <string name="guide"> راهنما </string>
+    <string name="wait_please"> لطفا تا پایان بارگذاری تصاویر شکیبا باشید </string>
+
+    <string-array name="to_yellow_strategy">
+        <item> بخشی از بدن خود را کش بده (انجام تمرین‌های کششی) </item>
+        <item> به پیاده‌روی در فضای باز و پارک بپرداز </item>
+        <item> یک لبخند تبسم‌آمیز روی لبت بنشان </item>
+        <item> چندین بار پشت سر هم کلمه «آرام» را با خود تکرار کن </item>
+        <item> همگام با آرام‌سازی، خود را در کنار ساحل متصور شو </item>
+        <item> چند نفس عمیق بکش </item>
+    </string-array>
+
+    <string-array name="to_green_strategy">
+        <item> آخرین باری که سرشار از لذت بودی را به خاطر بیاور </item>
+        <item> به کسانی فکر کن که الهام‌بخش تو هستند </item>
+        <item> لبخندی بزرگ بر لبانت بنشان و برای چند دقیقه آن را حفظ کن </item>
+        <item> به جوک مورد علاقه‌ات فکر کن </item>
+        <item> خودت را در بالاترین مرحله از یک بازی تصور کن </item>
+        <item> خودت را در جمع افراد شاد وارد کن </item>
+    </string-array>
+
+    <string-array name="to_yellow_qout">
+        <item> هرگاه از کاری ترسیدی خود را در آن بینداز زیرا ترس از آن کار بزرگتر از خود آن کار است (امام علی، نهج البلاغه) </item>
+        <item> بهترين خنده، تبسّم است (امام علی، عیون الحکم و المواعظ) </item>
+        <item> هيچ حسودى، آرامش و هيچ افسرده‌دلى، دوستى ندارد (امام على (ع)، كنزالفوائد) </item>
+        <item> سه چيز زندگانى گوارا براى كس نگذارد: كين ورزى،‌ حسد و بدخُلقى (امام علی، غررالحکم) </item>
+        <item> بدان که الفت از خداست و کینه و نفرت از شیطان است (امام باقر (ع)، الكافي) </item>
+        <item> باور داشته باش، پیروزی آن نیست که هرگز زمین نخوری، آن است که بعد از هر زمین خوردنی برخیزی </item>
+        <item> یادت باشد پیروزی حق کسانی است که از شکست‌های خود درس گرفته‌اند </item>
+        <item> باور داشته باشید که هرگاه بتوانید بعد از شکست لبخند بزنید آن گاه شجاع خواهید بود </item>
+        <item> در دنیا تنها کسی موفق می‌شود که به انتظار دیگران ننشیند و همه چیز را از خود بخواهد </item>
+        <item> اعتقاد به بخت و قسمت بدترین نوع بردگی است </item>
+        <item> اگر روزگاری، شأن و مقامت پایین آمد ناامید مشو زیرا آفتاب هرروز هنگام غروب پایین می‌آید تا بامداد دیگر بالا آید </item>
+        <item> تلاش توام با ناامیدی از همان ابتدا محکوم به شکست است </item>
+        <item> تا زمانی که فقط بدبختی‌ها را می‌بینید مصیبت‌های بیشتری به طرف خود جذب می‌کنید </item>
+        <item> موفقیت کلید شادی نیست شادی کلید موفقیت است، اگر آنچه انجام می‌دهی دوست بداری موفق خواهی بود </item>
+        <item> کیفیت زندگی شما بستگی به کیفیت مدیریت شما در استفاده بهتر از وقت دارد </item>
+        <item> آفتاب زیر سقف نمی‌تابد، پس بر سر خود سقفی از نومیدی ایجاد مکن تا بتوانی از انوار آفتاب لذت ببری </item>
+        <item> مغز ما یک دینام هزار ولتی است که متاسفانه اکثرمان بیش از یک چراغ موشی از آن استفاده نمی‌کنیم </item>
+        <item> بدون یک برنامه‌ریزی درست هیچ کس نمی‌تواند روی کارهای مهم تمرکز داشته باشد و به موفقیت بیاندیشد </item>
+        <item> اگر انسان نیروهای درونش را بشناسد می‌تواند به رویاهایش واقعیت بخشد </item>
+        <item> شش خصوصیت برای موفقیت خلوص، مهربانی و ادب، صادق بودن با خود، فروتنی، خرد و نیکوکاری </item>
+        <item> اگر نتوانی شادی را در طول راه بیابی قطعا از رسیدن به آن در پایان راه نیز عاجز خواهی بود </item>
+        <item> گاهی وقت ها مهم‌ترین چیز در تمام روز فاصله بین دو نفس عمیق است </item>
+    </string-array>
+
+    <string-array name="to_green_qout">
+        <item> آگاه باشيد كه بر دوستان خدا نه بيمى است و نه آنان اندوهگين مى‏‌شوند. (یونس، 62) </item>
+        <item> و آن که صبر کند و از خطا در گذرد، این از کارهای پسندیده است (شوری، 42) </item>
+        <item> اى كسانى كه ايمان آورده‌ايد! (در برابر حوادث سخت زندگى،) از صبر و نماز كمك بگيريد، همانا خداوند با صابران است (بقره، 153) </item>
+        <item> اى كسانى كه ايمان آورده‌ايد! استقامت كنيد و پايدار باشيد و از خداوند پروا داشته باشيد، شايد كه رستگار شويد </item>
+        <item> شدّت غضب، توانایی استدلال صحیح را از بین می‌برد و ادراکات را مغشوش می‌سازد (امام علی (ع)، كنزالفوائد) </item>
+        <item> از خشم دورى كن؛ زيرا كه خشم لشكری بزرگ از لشكريان ابليس است (امام علی، نهج‌البلاغه) </item>
+        <item> سکوت همیشه کمک می‌کند تا بهتر بشنوی </item>
+        <item> کسی که هیچ گاه اشتباه نمی‌کند هرگز به جایی نخواهد رسید </item>
+        <item> هر آنچه مرا نکشد قویترم خواهد ساخت </item>
+        <item> هر انسان گنج پنهانی دارد که سختی‌ها و شکست‌ها آن را عیان می‌کند </item>
+        <item> احساس منفی ترمز موفقیت‌های ماست؛ ترمزهای خود را رها کنید </item>
+        <item> انتخاب باتوست، می‌توانی بگویی صبح به خیر خداجان یا بگویی خدا به خیر کند باز صبح شده </item>
+        <item> هیچ کس نمی‌تواند بدون رضایت شما در شما احساس حقارت به وجود آورد </item>
+        <item> صاحب اراده فقط پیش مرگ زانو می‌زند و آن هم در تمام عمر بیش از یک مرتبه نیست </item>
+        <item> رفتارهایی که می‌خواهید ترک کنید با رنج و رفتارهایی که می‌خواهید داشته باشید با لذت توام سازید </item>
+        <item> یک خنده خوب همچون آفتاب در خانه است </item>
+        <item> در زیبایی زندگی خانه کن، به ستاره ها بنگر و خود را کنار آن‌ها ببین </item>
+        <item> با اطمینان در جهت رویاهایت حرکت کن؛ دنیایی را که متصور شده‌ای خودت بساز </item>
+        <item> هیچ موفقیت بزرگی بدون شور و شوق به‌ دست نیامده است </item>
+        <item> بهترین راه برای تحقق رویاهایت این است که از خواب برخیزی </item>
+        <item> اگر نتوانی شادی را در طول راه بیابی قطعا از رسیدن به آن در پایان راه نیز عاجز خواهی بود </item>
+        <item> گاهی وقت ها مهم‌ترین چیز در تمام روز فاصله بین دو نفس عمیق است </item>
+    </string-array>
+
+    <string-array name="emotions_array">
+        <item> شدیداً خشمگینم </item>
+        <item> غضب‌آلودم </item>
+        <item> دود از سرم بلند میشه </item>
+        <item> دلواپسم </item>
+        <item> بیزارم </item>
+        <item> منزجرم </item>
+        <item> بدبینم </item>
+        <item> احساس بیگانگی می‌کنم </item>
+        <item> محزونم </item>
+        <item> احساس یأس می‌کنم </item>
+        <item> در بیم و هراسم </item>
+        <item> متلاطم و آتشینم </item>
+        <item> هراسانم </item>
+        <item> نگرانم </item>
+        <item> گرفتارم </item>
+        <item> ملولم و مکدرم </item>
+        <item> کلافه‌ام </item>
+        <item> احساس بدبختی می‌کنم </item>
+        <item> افسرده‌ام </item>
+        <item> ناامیدم </item>
+        <item> استرس دارم </item>
+        <item> ناتوان و ناکامم </item>
+        <item> عصبانی‌ام </item>
+        <item> مضطربم </item>
+        <item> درگیر و نگرانم </item>
+        <item> به هدفم نرسیدم </item>
+        <item> دلسردم </item>
+        <item> احساس تنهایی می‌کنم </item>
+        <item> عبوس و ترش­‌رو هستم </item>
+        <item> وامانده‌ام </item>
+        <item> وحشت زده‌ام </item>
+        <item> احساس راحتی نمی‌کنم </item>
+        <item> دستپاچه‌ام </item>
+        <item> رنجیده خاطرم </item>
+        <item> ناآرامم </item>
+        <item> حالم بد شده </item>
+        <item> غمگینم </item>
+        <item> دلسرد و نومیدم </item>
+        <item> خیلی خسته‌ام </item>
+        <item> خسته و کوفته‌ام </item>
+        <item>  شوکه شدم </item>
+        <item> گیجم </item>
+        <item> آرام و قرار ندارم </item>
+        <item> آزرده‌ام </item>
+        <item> کج‌خلقم </item>
+        <item> بی­‌تفاوتم </item>
+        <item> کسلم </item>
+        <item> خسته‌ام </item>
+        <item> فرسوده‌ام </item>
+        <item> بدون انرژی‌ام </item>
+        <item> سورپرایزم </item>
+        <item> پر انرژی و شادم </item>
+        <item> انرژی گرفتم </item>
+        <item> محظوظم </item>
+        <item> راضی‌ام از خودم </item>
+        <item> آسوده‌ام </item>
+        <item> آرامم </item>
+        <item> ریلکسم </item>
+        <item> ملو هستم </item>
+        <item> خوابم میاد </item>
+        <item> شادم </item>
+        <item> بشاش و خوشرو‌ هستم </item>
+        <item> احساس سرزندگی می‌کنم </item>
+        <item> خوشحالم </item>
+        <item> سرشار از لذتم </item>
+        <item> بی قیدم </item>
+        <item> احساس امنیت می‌کنم </item>
+        <item> خیلی ریلکسم </item>
+        <item> خیال‌پردازی می‌کنم </item>
+        <item> راحت­‌طلبم </item>
+        <item> سرمستم </item>
+        <item> احساس شور و اشتیاق می‌کنم </item>
+        <item>  مشتاق و علاقه‌مندم </item>
+        <item> تمرکز دارم </item>
+        <item> پر از امیدم </item>
+        <item> خرسندم </item>
+        <item> ارضاء شده‌ام </item>
+        <item> پر از آسایشم </item>
+        <item> ملایم و صلح‌طلبم </item>
+        <item> آسوده‌ام </item>
+        <item> مسرورم </item>
+        <item> از چیزی الهام گرفتم </item>
+        <item> خوش­بینم </item>
+        <item> احساس افتخار می‌کنم </item>
+        <item> سرگرمم </item>
+        <item> احساس عشق و محبت می‌کنم </item>
+        <item> سپاسگذارم و قدرشناسم </item>
+        <item> سعید و مبارکم </item>
+        <item> آسوده خاطرم </item>
+        <item> احساس راحتی می‌کنم </item>
+        <item> شگفت‌­زده‌ام </item>
+        <item> به وجد آمده‌ام </item>
+        <item> برانگیخته‌ام </item>
+        <item> هیجان دارم </item>
+        <item> خوش و سعادتمندم </item>
+        <item> از اتمام کاری خرسندم </item>
+        <item> به هدفم نزدیکم </item>
+        <item> احساس تعادل و توازن می‌کنم </item>
+        <item> سبک­بار و بی‌خیالم </item>
+        <item> متین و ساکتم </item>
+    </string-array>
+
+    <string-array name="colors">
+        <item> #ff0000 </item>
+        <item> #ee0909 </item>
+        <item> #dd1111 </item>
+        <item> #d01818 </item>
+        <item> #c31e1e </item>
+        <item> #062dd6 </item>
+        <item> #0c2bb5 </item>
+        <item> #122994 </item>
+        <item> #17287d </item>
+        <item> #1b2664 </item>
+        <item> #ff2500 </item>
+        <item> #ee2709 </item>
+        <item> #dd2711 </item>
+        <item> #d02918 </item>
+        <item> #c3291e </item>
+        <item> #104fca </item>
+        <item> #1446ac </item>
+        <item> #183d8d </item>
+        <item> #1b3877 </item>
+        <item> #1e3160 </item>
+        <item> #ff4300 </item>
+        <item> #ee3f09 </item>
+        <item> #dd3911 </item>
+        <item> #d03618 </item>
+        <item> #c3321e </item>
+        <item> #186bc1 </item>
+        <item> #1a5da4 </item>
+        <item> #1c4e88 </item>
+        <item> #1f4473 </item>
+        <item> #20395e </item>
+        <item> #ff5e00 </item>
+        <item> #ee5409 </item>
+        <item> #dd4911 </item>
+        <item> #d04218 </item>
+        <item> #c33a1e </item>
+        <item> #2189b7 </item>
+        <item> #21759c </item>
+        <item> #226082 </item>
+        <item> #23526f </item>
+        <item> #23425b </item>
+        <item> #ff7a00 </item>
+        <item> #ee6a09 </item>
+        <item> #dd5a11 </item>
+        <item> #d04f18 </item>
+        <item> #c3431e </item>
+        <item> #29a5af </item>
+        <item> #288a95 </item>
+        <item> #27707c </item>
+        <item> #265e6a </item>
+        <item> #254a58 </item>
+        <item> #ffb600 </item>
+        <item> #f9b706 </item>
+        <item> #f2b70c </item>
+        <item> #edb711 </item>
+        <item> #e9b716 </item>
+        <item> #77bd36 </item>
+        <item> #5db43a </item>
+        <item> #44ab3e </item>
+        <item> #229f43 </item>
+        <item> #009348 </item>
+        <item> #fdc200 </item>
+        <item> #f7c006 </item>
+        <item> #f1be0c </item>
+        <item> #ecbc11 </item>
+        <item> #e8bb16 </item>
+        <item> #77bb31 </item>
+        <item> #5db233 </item>
+        <item> #44a834 </item>
+        <item> #229a35 </item>
+        <item> #008d37 </item>
+        <item> #face00 </item>
+        <item> #f5ca06 </item>
+        <item> #efc60c </item>
+        <item> #ebc211 </item>
+        <item> #e8be16 </item>
+        <item> #77b92b </item>
+        <item> #5dae29 </item>
+        <item> #44a327 </item>
+        <item> #229424 </item>
+        <item> #008622 </item>
+        <item> #f8db00 </item>
+        <item> #f3d406 </item>
+        <item> #eecd0c </item>
+        <item> #eac811 </item>
+        <item> #e7c216 </item>
+        <item> #77b726 </item>
+        <item> #5dac22 </item>
+        <item> #44a01d </item>
+        <item> #229017 </item>
+        <item> #008111 </item>
+        <item> #f6e700 </item>
+        <item> #f2de06 </item>
+        <item> #edd50c </item>
+        <item> #e9cd11 </item>
+        <item> #e6c616 </item>
+        <item> #77b621 </item>
+        <item> #5daa1a </item>
+        <item> #449d13 </item>
+        <item> #228c09 </item>
+        <item> #007c00 </item>
+    </string-array>
+</resources>

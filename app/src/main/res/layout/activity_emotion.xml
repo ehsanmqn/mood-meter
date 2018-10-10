@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ehsan.moodmeter.EmotionActivity"
+    android:background="#000000"
+    android:id="@+id/backLayout">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:layout_weight="1"
+        android:layout_above="@+id/linearLayout3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/dateTextView"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="آرومم"
+            android:id="@+id/emotionTextView"
+            android:textColor="#ffffff"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            android:paddingRight="10dp"
+            android:paddingBottom="20dp"
+            android:textIsSelectable="false"
+            android:textAlignment="gravity"
+            android:layout_gravity="right"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textMultiLine"
+            android:id="@+id/reasonEditText"
+            android:layout_margin="10dp"
+            android:background="#212121"
+            android:minHeight="100dp"
+            android:padding="5dp"
+            android:hint="دلیلشم اینه که ..."
+            android:textColorHint="#ffffff"
+            android:gravity="top|right"
+            android:nestedScrollingEnabled="false"
+            android:fadeScrollbars="false"
+            android:fitsSystemWindows="true"
+            android:overScrollMode="always"
+            android:singleLine="false"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:background="#96000000"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout3">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/doneButton"
+            android:layout_gravity="bottom|center_horizontal"
+            android:gravity="fill_vertical|center_horizontal"
+            android:text="@string/done_text"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_weight="1"
+            android:background="#96000000"
+            android:textSize="20dp"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/nextButton"
+            android:gravity="fill_vertical|center_horizontal"
+            android:text="@string/next_text"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_weight="1"
+            android:background="#96000000"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</RelativeLayout>

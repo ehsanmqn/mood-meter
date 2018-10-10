@@ -1,0 +1,510 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="rb00"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_00selector</item>
+    </style>
+
+    <style name="rb01"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_01selector</item>
+    </style>
+
+    <style name="rb02"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_02selector</item>
+    </style>
+
+    <style name="rb03"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_03selector</item>
+    </style>
+
+    <style name="rb04"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_04selector</item>
+    </style>
+
+    <style name="rb05"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_05selector</item>
+    </style>
+
+    <style name="rb06"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_06selector</item>
+    </style>
+
+    <style name="rb07"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_07selector</item>
+    </style>
+
+    <style name="rb08"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_08selector</item>
+    </style>
+
+    <style name="rb09"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_09selector</item>
+    </style>
+
+    <style name="rb10"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_10selector</item>
+    </style>
+
+    <style name="rb11"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_11selector</item>
+    </style>
+
+    <style name="rb12"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_12selector</item>
+    </style>
+
+    <style name="rb13"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_13selector</item>
+    </style>
+
+    <style name="rb14"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_14selector</item>
+    </style>
+
+    <style name="rb15"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_15selector</item>
+    </style>
+
+    <style name="rb16"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_16selector</item>
+    </style>
+
+    <style name="rb17"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_17selector</item>
+    </style>
+
+    <style name="rb18"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_18selector</item>
+    </style>
+
+    <style name="rb19"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_19selector</item>
+    </style>
+
+    <style name="rb20"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_20selector</item>
+    </style>
+
+    <style name="rb21"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_21selector</item>
+    </style>
+
+    <style name="rb22"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_22selector</item>
+    </style>
+
+    <style name="rb23"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_23selector</item>
+    </style>
+
+    <style name="rb24"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_24selector</item>
+    </style>
+
+    <style name="rb25"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_25selector</item>
+    </style>
+
+    <style name="rb26"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_26selector</item>
+    </style>
+
+    <style name="rb27"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_27selector</item>
+    </style>
+
+    <style name="rb28"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_28selector</item>
+    </style>
+
+    <style name="rb29"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_29selector</item>
+    </style>
+
+    <style name="rb30"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_30selector</item>
+    </style>
+
+    <style name="rb31"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_31selector</item>
+    </style>
+
+    <style name="rb32"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_32selector</item>
+    </style>
+
+    <style name="rb33"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_33selector</item>
+    </style>
+
+    <style name="rb34"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_34selector</item>
+    </style>
+
+    <style name="rb35"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_35selector</item>
+    </style>
+
+    <style name="rb36"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_36selector</item>
+    </style>
+
+    <style name="rb37"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_37selector</item>
+    </style>
+
+    <style name="rb38"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_38selector</item>
+    </style>
+
+    <style name="rb39"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_39selector</item>
+    </style>
+
+    <style name="rb40"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_40selector</item>
+    </style>
+
+    <style name="rb41"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_41selector</item>
+    </style>
+
+    <style name="rb42"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_42selector</item>
+    </style>
+
+    <style name="rb43"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_43selector</item>
+    </style>
+
+    <style name="rb44"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_44selector</item>
+    </style>
+
+    <style name="rb45"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_45selector</item>
+    </style>
+
+    <style name="rb46"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_46selector</item>
+    </style>
+
+    <style name="rb47"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_47selector</item>
+    </style>
+
+    <style name="rb48"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_48selector</item>
+    </style>
+
+    <style name="rb49"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_49selector</item>
+    </style>
+
+    <style name="rb50"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_50selector</item>
+    </style>
+
+    <style name="rb51"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_51selector</item>
+    </style>
+
+    <style name="rb52"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_52selector</item>
+    </style>
+
+    <style name="rb53"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_53selector</item>
+    </style>
+
+    <style name="rb54"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_54selector</item>
+    </style>
+
+    <style name="rb55"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_55selector</item>
+    </style>
+
+    <style name="rb56"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_56selector</item>
+    </style>
+
+    <style name="rb57"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_57selector</item>
+    </style>
+
+    <style name="rb58"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_58selector</item>
+    </style>
+
+    <style name="rb59"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_59selector</item>
+    </style>
+
+    <style name="rb60"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_60selector</item>
+    </style>
+
+    <style name="rb61"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_61selector</item>
+    </style>
+
+    <style name="rb62"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_62selector</item>
+    </style>
+
+    <style name="rb63"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_63selector</item>
+    </style>
+
+    <style name="rb64"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_64selector</item>
+    </style>
+
+    <style name="rb65"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_65selector</item>
+    </style>
+
+    <style name="rb66"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_66selector</item>
+    </style>
+
+    <style name="rb67"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_67selector</item>
+    </style>
+
+    <style name="rb68"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_68selector</item>
+    </style>
+
+    <style name="rb69"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_69selector</item>
+    </style>
+
+    <style name="rb70"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_70selector</item>
+    </style>
+
+    <style name="rb71"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_71selector</item>
+    </style>
+
+    <style name="rb72"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_72selector</item>
+    </style>
+
+    <style name="rb73"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_73selector</item>
+    </style>
+
+    <style name="rb74"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_74selector</item>
+    </style>
+
+    <style name="rb75"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_75selector</item>
+    </style>
+
+    <style name="rb76"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_76selector</item>
+    </style>
+
+    <style name="rb77"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_77selector</item>
+    </style>
+
+    <style name="rb78"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_78selector</item>
+    </style>
+
+    <style name="rb79"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_79selector</item>
+    </style>
+
+    <style name="rb80"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_80selector</item>
+    </style>
+
+    <style name="rb81"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_81selector</item>
+    </style>
+
+    <style name="rb82"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_82selector</item>
+    </style>
+
+    <style name="rb83"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_83selector</item>
+    </style>
+
+    <style name="rb84"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_84selector</item>
+    </style>
+
+    <style name="rb85"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_85selector</item>
+    </style>
+
+    <style name="rb86"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_86selector</item>
+    </style>
+
+    <style name="rb87"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_87selector</item>
+    </style>
+
+    <style name="rb88"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_88selector</item>
+    </style>
+
+    <style name="rb89"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_89selector</item>
+    </style>
+
+    <style name="rb90"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_90selector</item>
+    </style>
+
+    <style name="rb91"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_91selector</item>
+    </style>
+
+    <style name="rb92"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_92selector</item>
+    </style>
+
+    <style name="rb93"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_93selector</item>
+    </style>
+
+    <style name="rb94"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_94selector</item>
+    </style>
+
+    <style name="rb95"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_95selector</item>
+    </style>
+
+    <style name="rb96"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_96selector</item>
+    </style>
+
+    <style name="rb97"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_97selector</item>
+    </style>
+
+    <style name="rb98"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_98selector</item>
+    </style>
+
+    <style name="rb99"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/_99selector</item>
+    </style>
+</resources>
